@@ -1,0 +1,61 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1472.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1278.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1279.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1280.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1281.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1283.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1282.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1286.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1287.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1289.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1284.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1285.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1292.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1290.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1291.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1288.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1296.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1295.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1294.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1293.ts
